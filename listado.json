@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Pollo Asado Tradicional",
+    "price": 12.99,
+    "weight": "1.2 kg",
+    "image": "https://images.unsplash.com/photo-1564873038131-2e237b0b97aa",
+    "description": "Pollo asado al horno con especias clásicas.",
+    "link": "https://images.unsplash.com/photo-1564873038131-2e237b0b97aa"
+  },
+  {
+    "id": 2,
+    "name": "Pollo a la Brasa",
+    "price": 14.50,
+    "weight": "1.3 kg",
+    "image": "https://images.unsplash.com/photo-1583454052367-0c3ce052ea4f",
+    "description": "Pollo cocinado a la brasa, jugoso y con piel crujiente.",
+    "link": "https://images.unsplash.com/photo-1583454052367-0c3ce052ea4f"
+  },
+  {
+    "id": 3,
+    "name": "Pollo al Limón",
+    "price": 13.50,
+    "weight": "1.1 kg",
+    "image": "https://images.unsplash.com/photo-1610931443709-5c220f3a8a6d",
+    "description": "Pollo con un ligero sabor cítrico, ideal para paladares frescos.",
+    "link": "https://images.unsplash.com/photo-1610931443709-5c220f3a8a6d"
+  },
+  {
+    "id": 4,
+    "name": "Pollo con Miel y Mostaza",
+    "price": 15.99,
+    "weight": "1.3 kg",
+    "image": "https://images.unsplash.com/photo-1560691023-ca1f295a5173",
+    "description": "Pollo con un glaseado de miel y mostaza.",
+    "link": "https://images.unsplash.com/photo-1560691023-ca1f295a5173"
+  },
+  {
+    "id": 5,
+    "name": "Hamburguesa Clásica",
+    "price": 8.99,
+    "weight": "300 g",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+    "description": "Hamburguesa con carne de res, lechuga, tomate y queso cheddar.",
+    "link": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd"
+  },
+  {
+    "id": 6,
+    "name": "Pizza Margarita",
+    "price": 11.50,
+    "weight": "500 g",
+    "image": "https://images.unsplash.com/photo-1590947132387-155cc02f3212",
+    "description": "Pizza clásica con salsa de tomate, mozzarella y albahaca.",
+    "link": "https://images.unsplash.com/photo-1590947132387-155cc02f3212"
+  },
+  {
+    "id": 7,
+    "name": "Sushi Variado",
+    "price": 18.99,
+    "weight": "600 g",
+    "image": "https://images.unsplash.com/photo-1567401893078-f5e79d4b2f6f",
+    "description": "Selección de sushi fresco con pescado y vegetales.",
+    "link": "https://images.unsplash.com/photo-1567401893078-f5e79d4b2f6f"
+  },
+  {
+    "id": 8,
+    "name": "Ensalada César",
+    "price": 9.99,
+    "weight": "350 g",
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+    "description": "Ensalada fresca con pollo, lechuga romana, crutones y aderezo César.",
+    "link": "https://images.unsplash.com/photo-1512058564366-18510be2db19"
+  },
+  {
+    "id": 9,
+    "name": "Tacos de Carnitas",
+    "price": 10.50,
+    "weight": "400 g",
+    "image": "https://images.unsplash.com/photo-1545093149-618ce3bcf49d",
+    "description": "Tacos de cerdo desmenuzado con cebolla y cilantro.",
+    "link": "https://images.unsplash.com/photo-1545093149-618ce3bcf49d"
+  },
+  {
+    "id": 10,
+    "name": "Pasta Alfredo",
+    "price": 12.00,
+    "weight": "450 g",
+    "image": "https://images.unsplash.com/photo-1574821743449-879bb9830cfb",
+    "description": "Pasta cremosa con salsa Alfredo y pollo.",
+    "link": "https://images.unsplash.com/photo-1574821743449-879bb9830cfb"
+  },
+  {
+    "id": 11,
+    "name": "Costillas BBQ",
+    "price": 19.99,
+    "weight": "800 g",
+    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+    "description": "Costillas de cerdo glaseadas con salsa BBQ.",
+    "link": "https://images.unsplash.com/photo-1534447677768-be436bb09401"
+  }
+]
